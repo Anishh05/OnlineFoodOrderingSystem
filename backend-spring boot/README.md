@@ -1,4 +1,4 @@
-# Zosh Food
+# Beast Food
 
 1. **User:**
     - ID (Auto-generated)
